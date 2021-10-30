@@ -1,5 +1,5 @@
 # Project-Management-Capstone
-This is a real world Project Management Plan I completed on a team as a requirement for achieving the 12 week Certificate in Applied Project Management programme.
+This is a real world Project Management Plan I completed on a team as a requirement for achieving a 12 week Certificate in Applied Project Management programme.
 Entire curriculum was based on PMI Project Management Body of Knowledge.
 The Certificate Program Agenda covered the following areas:
   1. What is Project Management?
